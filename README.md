@@ -7,7 +7,7 @@
 </p>
 
 <h2 align="center" >A Modern Open Source CRM </h3>
-<p align="center">Crafted with Precision. Built for Success.</p>
+<p align="center">Crafted with Precision. Built for Success!</p>
 
 <p align="center">🌐 <a href="https://twenty.com">Website</a> · 📚 <a href="https://docs.twenty.com">Documentation</a> · 📖 <a href="https://twenty.com/story">Our Story</a> · 💬 <a href="https://discord.gg/cx5n4Jzs57">Discord</a></p>
 <br />
